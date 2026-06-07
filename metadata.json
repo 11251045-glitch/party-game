@@ -1,0 +1,6 @@
+{
+  "name": "派對之夜 🎉",
+  "description": "經典復古電玩與台灣夜市風情多人連線派對遊戲！搭載「你問我答」及「你畫我猜」雙重趣味模式，支援實時同步與語音合成音效。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
